@@ -1,0 +1,82 @@
+/* Common Elements */
+body {
+    font-size: x-large;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    background: salmon url(./Website/Mortar.jpg);
+    padding: 0;
+    margin: 0;
+
+}
+
+/* Header */
+header {
+    color-scheme: salmon;
+    padding: 2.5em 0 0.5em;
+    margin: 0 0 2.0em;
+    
+}
+
+header h1 {
+    font-family: "Times New Roman", Times, Serif;
+    color: coral;
+    font-size: large;
+    letter-spacing: -0.025em;
+    margin: 0;
+    text-shadow: 1px 2px 0 #bd8437; offset-x offset-y blur-radius color;
+    }
+
+nav {
+    color: coral: large;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin: 1.0em 0 ;
+}
+
+nav ul {
+    color-scheme: coral;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav dd {
+    display: inline-block;
+    margin: 0;
+    color-scheme: coral;
+    color:coral
+    font-size: large;
+}
+
+nav dt {
+    display: inline-block;
+    margin: 0;
+    color-scheme: coral;
+    color:aquamarine
+    font-size: large ;
+}
+
+nav dd. dt {
+    display: inline-table;
+    margin: 0;
+    text-decoration: indianred;
+    font-size: medium;
+}
+header h2 {
+    font-weight: 300;
+    font-size: large;
+    color: #2BA967;
+    margin: -04em 0 0 1.0em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+section#sidebar {
+    scrollbar-width: 50;
+    float: right;
+    position: releative;
+    dispaly: block;
+    background-color: aquamarine
+    margin: 1.5em 1.5em 1.5em 1.5em;
+    padding: 1 1 1 1;
+    border-left: coral radialGradient;
+}
